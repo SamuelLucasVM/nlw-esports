@@ -1,6 +1,6 @@
 # NLW - Esports - Trilha Explorer
 
-![preview](.github/preview.png)
+![preview](preview.png)
 
 ## Sobre:
 Projeto para criar um site que contenha informações sobre o usuário que possui interesse por jogos e streamers, podendo se conectar com pessoas que tenham gostos parecidos disponibilizando o contato entre os dois.
